@@ -4,8 +4,11 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("Hello World");
+console.log(1+2)
+console.log("1+2");console.log("hello");
+console.log("She \"said\"")
+console.log('%c Hello World', 'color: #ffffff')
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
